@@ -23,13 +23,15 @@ Love those Shorts where people draft an anime team, bid $20 on characters, or sp
 ## Play online with friends
 
 - **One tap to make a room.** Share the link or read out the 5-letter code. No account, no download.
-- **Up to 8 players** in Draft and Auction, 10 in Build a Character. Friends who join mid-game watch the round and vote, then play the next one.
+- **Up to 8 players** in Draft and Auction, 6 in Build a Character, 10 in Who Am I?. Friends who join mid-game watch the round, then play the next one.
 - **Refresh-proof.** Lose signal or close the tab and you get your seat back.
 - **Or play on one phone** and pass it around the table.
 
 ## Pick an anime, get its own edition
 
-Tap an anime and the game changes to fit it. Naruto drafts into **Hokage, Legendary Sannin, ANBU Captain, Medical-Nin, Jinchuriki and Akatsuki Rogue**, with a Naruto-only mission and event. 16 anime have their own editions, and there are 40 anime in total, including Death Note, Mob Psycho 100, Cyberpunk: Edgerunners, Frieren, Solo Leveling and Dandadan.
+Tap an anime and the game changes to fit it. Naruto drafts into **Hokage, Legendary Sannin, ANBU Captain, Medical-Nin, Jinchuriki and Akatsuki Rogue**. 16 anime have their own roles, and there are 40 anime in total, including Death Note, Mob Psycho 100, Cyberpunk: Edgerunners, Frieren, Solo Leveling and Dandadan.
+
+**Fact-checked rankings.** Every one of the 918 characters has a researched tier and trait ratings, based on official databooks, canon ranks and fan consensus. No more Temari above Tobirama.
 
 <p align="center">
   <img src="images/v3-anime.jpg" width="240" alt="Grid of anime editions" />
@@ -46,11 +48,12 @@ Themes work across every anime, inside one anime, or with your own mix: **Villai
 | Mode | How it works |
 |---|---|
 | **Role Draft** | Take turns pulling blind cards into roles. One skip each. *Fair fight* gives everyone the same tier every round. |
-| **Mission Auction** | $20 each. Bid live against your friends to build a crew for a mission. The winner of each character picks its role. Every mission hides a complication that's revealed at the end. |
-| **Build a Character** | $15, four traits, five characters priced $1 to $5. Everyone buys in secret, then see who survives the event, with a plot twist at the end. |
+| **Mystery Auction** | $20 each. Bid on a mystery character from a clue and build a team of 4. Names are revealed at the end. |
+| **Build a Character** | $15, four traits, five characters priced $1 to $5 by how good they really are at that trait. Take turns buying: once a pick is bought, it's gone. Then argue who wins the event. |
+| **Who Am I?** | Three clues per character, from broad to niche. Guess on the first clue for 3 points, the second for 2, the last for 1. |
 | **Daily Draft** | Everyone in the world gets the same 7 cards each day. Beat your friends and keep your streak. |
 
-When the teams are full, **the room votes** on who won (you can't vote for yourself). Then save a share image for the group chat.
+When the teams are full, **the room votes** on who won (you can't vote for yourself). Who Am I? is scored. Then save a share image for the group chat, and climb the Daily Draft leaderboard.
 
 <p align="center">
   <img src="images/v3-vote.jpg" width="240" alt="Room vote on whose team wins" />
