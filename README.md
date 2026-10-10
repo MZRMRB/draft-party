@@ -29,7 +29,7 @@ Love those Shorts where people draft an anime team, bid $20 on characters, or sp
 
 ## Pick an anime, get its own edition
 
-Tap an anime and the game changes to fit it. Naruto drafts into **Hokage, Legendary Sannin, Jonin Sensei, Medical-Nin, Jinchuriki and Tracker Ninja**; One Piece into Captain, First Mate, Navigator, Ship's Doctor, Cook and Sniper. All 40 anime have their own roles, including Death Note, Mob Psycho 100, Cyberpunk: Edgerunners, Frieren, Solo Leveling and Dandadan.
+Tap an anime and the game changes to fit it. Naruto drafts into **Shinobi, Ninjutsu, Taijutsu, Genjutsu, Chakra and Speed**; Jujutsu Kaisen into Sorcerer, Domain Expansion, Cursed Technique, Body, Cursed Energy and Speed. Every pick fits every slot, so the fight is over whose Body is better. All 40 anime have their own roles, including Death Note, Mob Psycho 100, Cyberpunk: Edgerunners, Frieren, Solo Leveling and Dandadan.
 
 **Fact-checked rankings.** Every one of the 921 characters has a researched tier and trait ratings, based on official databooks, canon ranks and fan consensus. Tap any card to read why. No more Temari above Tobirama.
 
