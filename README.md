@@ -1,10 +1,10 @@
 <div align="center">
 
-# Draft Party
+<img src="images/logo.png" width="620" alt="Draft Party logo: Kado, a trading card with anime eyes, next to the words Draft Party" />
 
 **Draft. Bid. Argue.** The anime draft games from YouTube Shorts, now playable with your friends, wherever they are.
 
-### [Play now: free, no sign-up](https://draft-party.anime-draft-party.workers.dev)
+### [Play now at draftparty.me: free, no sign-up](https://draftparty.me)
 
 *Early beta. Feedback very welcome.*
 
