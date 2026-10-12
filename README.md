@@ -26,6 +26,7 @@ Love those Shorts where people draft an anime team, bid $20 on characters, or sp
 - **Up to 8 players** in Draft and Auction, 6 in Build a Character, 10 in Who Am I?. Friends who join mid-game watch the round, then play the next one.
 - **Refresh-proof.** Lose signal or close the tab and you get your seat back.
 - **Or play on one phone** and pass it around the table.
+- **Keep your streak on every device.** Signing in is optional: use Google or a 6-digit email code, and your Daily Draft streak, results and nickname follow you.
 
 ## Pick an anime, get its own edition
 
