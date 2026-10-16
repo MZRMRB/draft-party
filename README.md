@@ -8,6 +8,8 @@
 
 *Early beta. Feedback very welcome.*
 
+**New:** [Meet Kida: why I built Draft Party](https://draftparty.me/blog/meet-kida), the story behind the game.
+
 </div>
 
 ---
