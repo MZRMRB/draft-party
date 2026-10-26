@@ -25,7 +25,7 @@ Love those Shorts where people draft an anime team, bid $20 on characters, or sp
 ## Play online with friends
 
 - **One tap to make a room.** Share the link or read out the 5-letter code. No account, no download.
-- **Up to 8 players** in Draft and Auction, 6 in Build a Character, 10 in Who Am I? and Anime Imposter (3 or more for Imposter). Friends who join mid-game watch the round, then play the next one.
+- **Up to 8 players** in Draft, Auction and Guess Who, 6 in Build a Character and Perfect Anime Draft, 10 in Who Am I?, Anime Imposter, Closest and Forehead (3 or more for Imposter and Forehead). Friends who join mid-game watch the round, then play the next one.
 - **Refresh-proof.** Lose signal or close the tab and you get your seat back.
 - **Or play on one phone** and pass it around the table.
 - **Keep your streak on every device.** Signing in is optional: use Google or a 6-digit email code, and your Daily Draft streak, results and nickname follow you.
@@ -50,14 +50,18 @@ Themes work across every anime, inside one anime, or with your own mix: **Villai
 
 | Mode | How it works |
 |---|---|
-| **Role Draft** | Take turns pulling blind cards into roles. One skip each. *Fair fight* gives everyone the same tier every round. |
-| **Mystery Auction** | $20 each. Bid on a mystery character from a clue and build a team of 4. Names are revealed at the end. |
+| **Role Draft** | Take turns pulling blind cards into roles. One skip each. *Fair fight* gives everyone the same tier every round. *Beat the Boss*: the anime's final boss sits out and sets a team power to beat. |
+| **Mystery Auction** | $20 each. Bid on a mystery character from a clue and build a team of 4. Names are revealed at the end. *Mixed clues* mixes stat lines, canon groups, traits and story clues. |
+| **Perfect Anime Draft** | $20 to build the perfect anime from parts of real ones: Main Character, Power System, Villain, Signature Move, Opening, Ending. Curses pay you to take them. Then vote on which anime you'd actually watch. |
 | **Build a Character** | $15, four traits, at least five characters per trait priced $1 to $5 by how good they really are at that trait. Take turns buying: once a pick is bought, it's gone. Then argue who wins the event. |
-| **Who Am I?** | Three clues per character, hardest first. The first to answer right takes the round: 3 points on the first clue, 2 on the second, 1 on the last. |
+| **Who Am I?** | Three clues per character, hardest first. The first to answer right takes the round: 3 points on the first clue, 2 on the second, 1 on the last. *Race mode*: first to N characters wins. |
 | **Anime Imposter** | Everyone sees the same secret character except the imposter, who only knows the anime. Give one- or two-word clues, then vote. A caught imposter gets one guess to steal the round. |
+| **Closest Without Going Over** | Name the #N on a real AniList ranking without going past it. Bullseye 5, then 3/2/1 for the closest. Double Down once per game. |
+| **Anime Guess Who** | 24-character boards, a secret pick each, question cards answered from the character data, and a blind early guess for 2 points. Online. |
+| **Forehead** | Everyone sees your character but you. Ask yes/no questions; Kinda earns a free question; a hot seat of one-word hints after 5. Online. |
 | **Daily Draft** | Everyone in the world gets the same 7 cards each day. Beat your friends and keep your streak. |
 
-When the teams are full, **the room votes** on who won (with 3 or more players you can't vote for yourself; with 2, a tie goes to the better-rated team). Who Am I? and Anime Imposter are scored. Then save a share image for the group chat, and climb the Daily Draft leaderboard.
+When the teams are full, **the room votes** on who won (with 3 or more players you can't vote for yourself; with 2, a tie goes to the better-rated team). Who Am I?, Anime Imposter, Closest, Guess Who and Forehead are scored. Then save a share image for the group chat, and climb the Daily Draft leaderboard.
 
 <p align="center">
   <img src="images/v4-build.jpg" width="240" alt="Build a Character price board" />
