@@ -25,19 +25,19 @@ Love those Shorts where people draft an anime team, bid $20 on characters, or sp
 ## Play online with friends
 
 - **One tap to make a room.** Share the link or read out the 5-letter code. No account, no download.
-- **Up to 8 players** in Draft, Auction and Guess Who, 6 in Build a Character and Perfect Anime Draft, 10 in Who Am I?, Anime Imposter, Closest and Forehead (3 or more for Imposter and Forehead). Friends who join mid-game watch the round, then play the next one.
+- **Up to 8 players** in Draft, Auction and Guess Who, 6 in Build a Character and Perfect Anime Draft, 10 in Who Am I?, Anime Imposter, Closest, Forehead, Anime Scale, Guess the Age and Name Chain (3 or more for Imposter and Forehead). Friends who join mid-game watch the round, then play the next one.
 - **Refresh-proof.** Lose signal or close the tab and you get your seat back.
 - **Or play on one phone** and pass it around the table.
-- **No friends around?** Role Draft works solo with a score to beat, and the Daily Draft has a world leaderboard.
+- **No friends around?** Role Draft, Keep 3, Anime Scale and Guess the Age work solo, and the Daily Draft has a world leaderboard.
 - **Keep your streak on every device.** Signing in is optional: use Google or a 6-digit email code, and your Daily Draft streak, results and nickname follow you.
 
 ## Pick an anime, get its own edition
 
-Tap an anime and the game changes to fit it. Naruto drafts into **Shinobi, Ninjutsu, Taijutsu, Dojutsu, Chakra Nature, Kekkei Genkai and Speed**; Jujutsu Kaisen into Sorcerer, Cursed Technique, Domain and Barrier Techniques, Cursed Energy, Physical Abilities, Special Traits and Speed. Every pick fits every slot, so the fight is over whose Speed is better. All 40 anime have their own roles, including Death Note, Mob Psycho 100, Cyberpunk: Edgerunners, Frieren, Solo Leveling and Dandadan.
+Tap an anime and the game changes to fit it. Naruto drafts into **Shinobi, Ninjutsu, Taijutsu, Dojutsu, Chakra Nature, Kekkei Genkai and Speed**; Jujutsu Kaisen into Sorcerer, Cursed Technique, Domain and Barrier Techniques, Cursed Energy, Physical Abilities, Special Traits and Speed. Every pick fits every slot, so the fight is over whose Speed is better. All 50 anime have their own roles, including Death Note, Mob Psycho 100, Cyberpunk: Edgerunners, Frieren, Solo Leveling and Dandadan.
 
 Play all anime or your own mix and you draft a full team instead: **Captain, Vice Captain, Tank, Healer, Support, Duelist, Technique and Aura.**
 
-**Fact-checked rankings.** Every one of the 921 characters has a researched tier and trait ratings, based on official databooks, canon ranks and fan consensus. Tap any card to read why. No more Temari above Tobirama. Every tier is also public: **[anime tier lists](https://draftparty.me/tier-list)** for all 40 anime.
+**Fact-checked rankings.** Every one of the 3,857 characters has a researched tier and trait ratings, based on official databooks, canon ranks and fan consensus. Tap any card to read why. No more Temari above Tobirama. Every tier is also public: **[anime tier lists](https://draftparty.me/tier-list)** for all 50 anime, like the [JJK](https://draftparty.me/tier-list/jjk), [Naruto](https://draftparty.me/tier-list/naruto) and [One Piece](https://draftparty.me/tier-list/onepiece) tier lists.
 
 <p align="center">
   <img src="images/v4-characters.jpg" width="240" alt="Pick an anime, in the Sunny look" />
@@ -47,7 +47,7 @@ Play all anime or your own mix and you draft a full team instead: **Captain, Vic
 
 ## Or pick a theme
 
-Themes run across all 40 anime, each with its own six roles: **Villains, Mentors, Dads, Moms, Rivals, Swordsmen, Geniuses, Main Characters, Anti-Heroes, Siblings, Monsters & Demons, Tragic Characters, Comic Relief, Best Friends, Overpowered, Must Protect, Captains and Underdogs.**
+Themes run across all 50 anime, each with its own six roles: **Villains, Mentors, Dads, Moms, Rivals, Swordsmen, Geniuses, Main Characters, Anti-Heroes, Siblings, Monsters & Demons, Tragic Characters, Comic Relief, Best Friends, Overpowered, Must Protect, Captains and Underdogs.**
 
 ## Game modes
 
@@ -62,9 +62,13 @@ Themes run across all 40 anime, each with its own six roles: **Villains, Mentors
 | **Closest Without Going Over** | Name the #N on a real AniList ranking without going past it. Bullseye 5, then 3/2/1 for the closest. Double Down once per game. Works solo too. |
 | **Anime Guess Who** | 24-character boards, a secret pick each, question cards answered from the character data, and a blind early guess for 2 points. Online. |
 | **Forehead** | Everyone sees your character but you. Ask yes/no questions; Kinda earns a free question; a hot seat of one-word hints after 5. Online. |
+| **Keep 3, the Rest Hunt You** | Ten characters come up one at a time. Keep or cut each on the spot, and keep exactly 3. Everyone you cut comes back to hunt you, and the real ratings settle the fight. Solo for now. |
+| **Anime Scale** | The game hides a character and you take turns naming characters. Every guess scores 0 to 100 for how close it is, with a stronger-or-weaker hint. Hit 100 to win the round. |
+| **Guess the Age** | A character and a point in their story come up; guess how old they are then. Three tries, each one says older or younger. Only sourced ages are used. |
+| **Name Chain** | Name a character starting with the last letter of the name before, then pass it on. A bomb is ticking, and whoever holds it when it goes off takes the boom. Online or one phone. |
 | **Daily Draft** | Everyone in the world gets the same 9 cards each day for the same eight roles. Captain counts ×3, Vice Captain ×2. One skip, one try. Beat your friends and keep your streak. |
 
-When the teams are full, **the room votes** on who won. Your own team counts, and a split vote goes to the stronger team on paper. Who Am I?, Anime Imposter, Closest, Guess Who and Forehead are scored. Then save a share image for the group chat, and climb the Daily Draft leaderboard.
+When the teams are full, **the room votes** on who won. Your own team counts, and a split vote goes to the stronger team on paper. Who Am I?, Anime Imposter, Closest, Guess Who, Forehead, Anime Scale, Guess the Age, Name Chain and Keep 3 are scored. Then save a share image for the group chat, and climb the Daily Draft leaderboard.
 
 <p align="center">
   <img src="images/v4-build.jpg" width="240" alt="Build a Character price board" />
